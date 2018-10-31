@@ -17,7 +17,7 @@ class Show < ActiveRecord::Base
   end
 
   def method_name
-    
+
   end
 
 end
